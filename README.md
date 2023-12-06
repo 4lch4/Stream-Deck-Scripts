@@ -5,3 +5,9 @@ This repository contains a collection of scripts for the [Elgato Stream Deck](ht
 ```bash
 bash -c "<path-to-script> <args>"
 ```
+
+Or run as a shell script to manage the Stream Deck:
+
+```bash
+./<path-to-script> <args>
+```
